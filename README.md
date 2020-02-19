@@ -8,3 +8,7 @@ Your users should be able to:
 View the optimal layout for the site depending on their device's screen size
 
 ## Preview
+<img src="https://github.com/ergauravsharma/Four-card-feature-section/blob/master/images/desktop-design.jpg" alt="Fron End Challange">
+
+## Demo
+Demo is available <a href="https://ergauravsharma.github.io/Four-card-feature-section/" target="_blank">here</a>
